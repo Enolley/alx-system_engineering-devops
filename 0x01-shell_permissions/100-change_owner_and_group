@@ -1,3 +1,2 @@
 #!/bin/bash
-chown victor:school *
 chown vincent:school *
